@@ -30,7 +30,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='main',
+    name='CheckIn-Church',
     debug=True,  # Mengaktifkan mode debug
     bootloader_ignore_signals=False,
     strip=False,
