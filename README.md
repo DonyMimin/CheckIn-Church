@@ -26,4 +26,4 @@ Link gDrive:
 ```https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing```
 
 Panduan Program:
-- Dapat dilihat di Manual Book yang dilampirkan
+- Dapat dilihat di Manual Book yang dilampirkan ``Manual_Book.pdf``
