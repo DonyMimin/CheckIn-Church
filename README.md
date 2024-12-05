@@ -1,6 +1,6 @@
 # CheckIn-Church
 ## Instalasi
-- Jalankan apps .exe CheckIn-Church (dapat didownload dari lnik gdrive [Apps CheckIn-Church](https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing)) yang berlokasi pada:
+- Jalankan apps .exe CheckIn-Church (dapat didownload dari link gdrive [Apps CheckIn-Church](https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing)) yang berlokasi pada:
 ```
 Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ```
