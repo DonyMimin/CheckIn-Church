@@ -4,7 +4,7 @@
 ```
 Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ```
-- Jalankan apps .exe CheckIn-Church dengan Run as Administrator jika diperlukan
+- Jalankan apps .exe CheckIn-Church dengan ``Run as Administrator`` jika diperlukan
 
 ## Regenerate .exe
 - Untuk regenerate .exe baru, clone repository dengan command:
