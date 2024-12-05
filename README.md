@@ -23,7 +23,7 @@ Current directory clone -> dist -> main -> CheckIn-Church.exe
 - Dapat melakukan Train kembali ``Pada train folder`` baik pada model YOLOv8 dan ResNet50 untuk mendapatkan bobot model jika diperlukan
 
 Link gDrive:
-```#L https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing```
+ [gDrive: ](https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing)
 
 Panduan Program:
 - Dapat dilihat di Manual Book yang dilampirkan ``Manual_Book.pdf``
