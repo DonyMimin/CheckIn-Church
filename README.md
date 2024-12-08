@@ -11,6 +11,10 @@ Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ```
 git clone https://github.com/DonyMimin/DonyMimin-Deteksi-Tempat-Duduk-dan-Pengenalan-Wajah-Yolov8-dan-ResNet50.git
 ```
+- Install all requiremnets library:
+```
+pip install -r requirements.txt
+```
 - Run main.py
 
 ## Regenerate .exe
