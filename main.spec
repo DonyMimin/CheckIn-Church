@@ -23,7 +23,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='main',
+    name='CheckIn-Church',
     debug=True,
     bootloader_ignore_signals=False,
     strip=False,
