@@ -6,6 +6,13 @@ Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ```
 - Jalankan apps .exe CheckIn-Church dengan ``Run as Administrator``
 
+## Clone Repository to run source code
+- Clone repository:
+```
+git clone https://github.com/DonyMimin/DonyMimin-Deteksi-Tempat-Duduk-dan-Pengenalan-Wajah-Yolov8-dan-ResNet50.git
+```
+- Run main.py
+
 ## Regenerate .exe
 - Untuk regenerate .exe baru, clone repository dengan command:
 ```
