@@ -20,7 +20,7 @@ pyinstaller main.spec
 Current directory clone -> dist -> main -> CheckIn-Church.exe
 ```
 - Kemudian memasukkan bobot model yang telah ada ``Pada model folder`` pada directory file yang sama dengan aplikasi .exe
-- Dapat melakukan Train kembali ``Pada train folder`` baik pada model YOLOv8 dan ResNet50 untuk mendapatkan bobot model jika diperlukan
+- Dapat melihat proses dari train sebelumnya ``Pada train folder`` baik pada model YOLOv8 dan ResNet50 dalam mendapatkan bobot model
 
 Link gDrive:
  [Apps CheckIn-Church](https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing)
