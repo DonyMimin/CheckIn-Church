@@ -7,49 +7,33 @@ a = Analysis(
     datas=[
         ('ultralytics/cfg/default.yaml', 'ultralytics/cfg')
     ],
-    hiddenimports=[
-        'scipy.special._cdflib',
-        'cv2',  # Menambahkan OpenCV
-        'PyQt5',  # Menambahkan PyQt5
-        'PyQt5.QtCore',  # Menambahkan PyQt5 core
-        'PyQt5.QtGui',   # Menambahkan PyQt5 GUI
-        'PyQt5.QtWidgets',  # Menambahkan PyQt5 widgets
-    ],
+    hiddenimports=['scipy.special._cdflib', 'cv2', 'PyQt5', 'PyQt5.QtCore', 'PyQt5.QtGui', 'PyQt5.QtWidgets'],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=['my_hook.py'],
-    excludes=['tkinter'],
+    excludes=[],
     noarchive=False,
     optimize=0,
 )
-
 pyz = PYZ(a.pure)
 
 exe = EXE(
     pyz,
     a.scripts,
+    a.binaries,
+    a.datas,
     [],
-    exclude_binaries=True,
-    name='CheckIn-Church',
-    debug=True,  # Mengaktifkan mode debug
+    name='main',
+    debug=True,
     bootloader_ignore_signals=False,
     strip=False,
     upx=False,
-    console=True,  # Mengaktifkan console untuk melihat output
+    upx_exclude=[],
+    runtime_tmpdir=None,
+    console=True,
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    onefile=False,
-)
-
-coll = COLLECT(
-    exe,
-    a.binaries,
-    a.datas,
-    strip=False,
-    upx=True,
-    upx_exclude=[],
-    name='main',
 )
