@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Regenerate .exe
 - Untuk regenerate .exe baru, clone repository dengan command:
 ```
-  https://github.com/DonyMimin/DonyMimin-Deteksi-Tempat-Duduk-dan-Pengenalan-Wajah-Yolov8-dan-ResNet50
+git clone https://github.com/DonyMimin/CheckIn-Church.git
 ```
 - run build command pada Command Prompt pada directory repository yang telah di clone sebelumnya dengan perintah:
 ```
