@@ -6,7 +6,7 @@ Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ```
 - Jalankan apps .exe CheckIn-Church dengan ``Run as Administrator``
 - Untuk cara menggunakan program dapat dilihat pada [Manual Book Program](https://drive.google.com/file/d/1BeJnEGddO0uCph2tlhgFmFX-RStjCSUj/view?usp=sharing)
-- Sample/data percobaan program [Data Sample Video](https://drive.google.com/file/d/1Sng82NcTf4Dbax_hzSYj_exFVDMUMrtW/view?usp=sharing)
+- Sample/data percobaan program [Data Sample Video](https://drive.google.com/file/d/1vHwlZcfSlxAdITmsvgpsVC01IzbsygPI/view?usp=sharing) 
 
 ## Clone Repository to run source code
 - Clone repository:
