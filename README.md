@@ -6,6 +6,7 @@ Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ```
 - Jalankan apps .exe CheckIn-Church dengan ``Run as Administrator``
 - Untuk cara menggunakan program dapat dilihat pada [Manual Book Program](https://drive.google.com/file/d/1BeJnEGddO0uCph2tlhgFmFX-RStjCSUj/view?usp=sharing)
+- Sample/data percobaan program [Data Sample Video](https://drive.google.com/file/d/1Sng82NcTf4Dbax_hzSYj_exFVDMUMrtW/view?usp=sharing)
 
 ## Clone Repository to run source code
 - Clone repository:
@@ -35,7 +36,10 @@ Current directory clone -> dist -> main -> CheckIn-Church.exe
 - Dapat melihat proses dari train sebelumnya ``Pada train folder`` baik pada model YOLOv8 dan ResNet50 dalam mendapatkan bobot model
 
 Link gDrive:
- [Apps CheckIn-Church](https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing)
+[Apps CheckIn-Church](https://drive.google.com/drive/folders/1Pw5jhF1Z_wOf98aa74XPHRbxdnM5nJDJ?usp=sharing)
 
 Panduan Program:
-- Dapat dilihat di Manual Book yang dilampirkan [Manual Book Program](https://drive.google.com/file/d/1BeJnEGddO0uCph2tlhgFmFX-RStjCSUj/view?usp=sharing)
+[Manual Book Program](https://drive.google.com/file/d/1BeJnEGddO0uCph2tlhgFmFX-RStjCSUj/view?usp=sharing)
+
+Data Sample Video:
+[Data Sample Video](https://drive.google.com/file/d/1Sng82NcTf4Dbax_hzSYj_exFVDMUMrtW/view?usp=sharing)
