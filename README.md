@@ -11,7 +11,7 @@ Final_app_exe -> dist -> main -> CheckIn-Church.exe
 ## Clone Repository to run source code
 - Clone repository:
 ```
-git clone https://github.com/DonyMimin/DonyMimin-Deteksi-Tempat-Duduk-dan-Pengenalan-Wajah-Yolov8-dan-ResNet50.git
+git clone https://github.com/DonyMimin/CheckIn-Church.git
 ```
 - Install all requiremnets library:
 ```
